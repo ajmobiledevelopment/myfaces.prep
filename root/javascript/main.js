@@ -1,0 +1,1 @@
+onload=function(){ console.log( "page loading.."); }
